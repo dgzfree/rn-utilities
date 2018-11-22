@@ -8,6 +8,7 @@ npm i dgz-rn-utilities
 API
 ----
 
+```javascript
 exports.fetchUrl = require('./FetchUrl').fetchUrl;
 exports.houseLogin = require('./HouseLogin').houseLogin;
 exports.HouseInitParams = require('./HouseInitParams').initParams;
@@ -24,3 +25,4 @@ exports.windowHeight = windowHeight;
 exports.windowScale = windowScale;
 exports.viewMaxHeight = viewMaxHeight;
 exports.isAndroid = isAndroid;
+```
