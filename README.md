@@ -2,7 +2,7 @@
 
 install
 --------
-npm i dgz-rn-utilities   
+npm i utilities-dugz  
 npm install  --registry=http://cnpm.58v5.cn/
 
 ------
